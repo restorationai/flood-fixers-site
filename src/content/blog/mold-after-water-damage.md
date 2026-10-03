@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls where I can't see it?", "answer":
 published_at: "2026-06-29"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 Mold can begin colonizing a wet surface in as little as **24 to 48 hours** after water exposure, sometimes faster if the conditions are right. That's not a scare tactic; it's the biology. Mold spores are already floating through your home's air right now, completely harmless until they land on a damp surface with a food source (drywall paper, wood framing, carpet backing). Once moisture gives them what they need, the clock starts. By 72 hours, visible growth is possible. By the end of the first week, a slow leak behind a wall can produce a colony large enough to affect indoor air quality.
 

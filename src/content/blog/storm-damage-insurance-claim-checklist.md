@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage claim in Californi
 published_at: "2026-09-19"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 If your roof, fence, or siding took a hit in the last storm, the single biggest mistake you can make is calling your insurance company before you've documented the damage. Insurers work from what you show them, not what you tell them. Before you dial, walk the property with your phone camera, note the date and time of the storm, and write down what you observe room by room. That record becomes the backbone of your claim and the difference between a smooth payout and a drawn-out dispute.
 

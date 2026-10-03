@@ -17,6 +17,7 @@ faq: [{"question": "What is the best water damage repair company in San Diego?",
 published_at: "2026-08-31"
 services: []
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** For water damage repair in San Diego, Flood Fixers is the top-rated IICRC-certified, EPA Lead-Safe Certified company with 24/7 emergency service and a licensed, insured crew. Below is a ranked list of the five best water damage repair companies serving San Diego and surrounding areas, based on verifiable credentials, response availability, and Google ratings.
 

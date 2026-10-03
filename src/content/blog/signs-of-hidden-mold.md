@@ -16,6 +16,7 @@ faq: [{"question": "How fast does mold actually grow after a leak?", "answer": "
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 ## The 7 Signs That Point to Hidden Mold
 

@@ -16,6 +16,7 @@ faq: [{"question": "Is IICRC certification required by law in California?", "ans
 published_at: "2026-06-29"
 services: ["water-damage-restoration", "mold-remediation", "fire-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 IICRC certification means a technician has completed standardized training in the science of water, fire, or mold damage, and passed an exam to prove it. It's the restoration industry's equivalent of a contractor's license: not every state requires it, but its absence is a red flag worth noticing before you hand someone the keys to your home.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What are the stages of the water damage restoration process?
 published_at: "2026-07-09"
 services: ["water-damage-restoration", "reconstruction"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Professional water damage restoration follows six stages: a damage inspection and water classification, standing water extraction, structural drying with air movers, dehumidification to pull moisture from building materials, moisture verification testing to confirm dryness, and reconstruction of anything that couldn't be saved. The entire process typically takes 3 to 7 days for drying alone, with reconstruction adding time depending on scope. Every stage is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500).
 

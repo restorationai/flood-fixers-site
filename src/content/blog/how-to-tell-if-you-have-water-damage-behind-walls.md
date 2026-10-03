@@ -17,6 +17,7 @@ faq: [{"question": "Can water damage behind walls dry out on its own?", "answer"
 published_at: "2026-07-13"
 services: ["water-damage-restoration", "burst-pipe-repair"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** The most reliable signs of water damage behind walls are yellowish-brown staining, bubbling or peeling paint, soft or warped drywall, a persistent musty smell, visible mold growth at baseboards, unexplained spikes in your water bill, and elevated moisture readings when you press a moisture meter against the wall. Any one of these warrants investigation. Two or more together almost always means active or recent water intrusion that needs professional assessment.
 

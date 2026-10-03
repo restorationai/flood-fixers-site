@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke smell last after a fire?", "answer": "Wi
 published_at: "2026-09-18"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 Smoke odor doesn't just sit on top of your walls and furniture. It works into drywall, insulation, wood framing, carpet padding, and HVAC ductwork, which is why spraying air freshener or running a box fan rarely makes it go away for good. Professional smoke odor removal works because it targets the source, the microscopic soot particles and gas residues embedded in porous materials, rather than masking the smell on the surface. DIY methods almost always fail because they clean what you can see and ignore what you can't, so the odor returns within days, especially when humidity rises or the heat kicks on.
 

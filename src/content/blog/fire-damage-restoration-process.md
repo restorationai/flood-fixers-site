@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration usually take?", "answe
 published_at: "2026-09-26"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 Fire damage restoration isn't just cleaning up soot. It's a sequence of assessment, mitigation, cleaning, deodorization, and rebuilding that typically runs anywhere from a few weeks to several months, depending on how much of the structure burned versus how much was damaged by smoke, heat, and the water used to put the fire out. If you're standing in a house that just had a fire, the short version is this: get a professional assessment before you touch anything, because soot is acidic and starts etching metal, glass, and finishes within hours, and the water sitting in your walls and subfloor from firefighting efforts can grow mold within 24 to 48 hours.
 

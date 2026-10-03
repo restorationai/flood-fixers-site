@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first when my basement floods?", "answer":
 published_at: "2026-09-24"
 services: ["basement-flooding-cleanup", "burst-pipe-repair", "water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** If water is still actively entering your basement, your first call is to a plumber or your utility company to stop the source. Once the water is off, call a water damage restoration company to extract and dry. Contact your insurance carrier after mitigation has started, not before. The order matters: stopping the source, then removing the water, then documenting for the claim.
 

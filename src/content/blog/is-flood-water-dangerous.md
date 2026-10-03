@@ -17,6 +17,7 @@ faq: [{"question": "Is flood water always Category 3 (black water)?", "answer": 
 published_at: "2026-09-10"
 services: ["flood-damage-restoration", "basement-flooding-cleanup"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Yes, flood water is dangerous. It is almost always classified as Category 3 water, also called black water, meaning it contains sewage, bacteria, viruses, chemicals, and other pathogens. Direct contact can cause serious illness. You should not wade through it without proper protective gear, and DIY cleanup is risky without professional equipment and training. If your home has flooded, limit your exposure, document the damage, and call a certified restoration crew as soon as it is safe to re-enter.
 

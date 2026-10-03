@@ -17,6 +17,7 @@ faq: [{"question": "How is commercial water damage restoration different from re
 published_at: "2026-09-29"
 services: ["water-damage-restoration", "burst-pipe-repair", "reconstruction"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Commercial water damage restoration is the process of extracting water, drying structure and contents, and documenting the loss for a commercial insurance carrier, all while keeping as much of a multi-tenant building operating as possible. In San Diego, that usually means phased drying with containment barriers, after-hours coordination with tenants, and a rebuild scope handed off to the same crew that dried the space, since most commercial losses end in reconstruction, not just drying equipment.
 
