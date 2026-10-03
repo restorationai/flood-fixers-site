@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Flood Fixers | Restoration Services in San Diego, CA"
-h1: "24/7 Restoration Services in San Diego"
-meta_description: "Flood Fixers provides 24/7 water, fire, mold, and storm damage restoration across San Diego and surrounding areas. Licensed, insured, IICRC-certified. Call (855) 204-1124."
-primary_keyword: "restoration services san diego"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in San Diego, CA | Flood Fixers"
+h1: "24/7 Water Damage Restoration in San Diego, CA"
+meta_description: "Flood Fixers provides water damage restoration in San Diego, CA, answering 24/7. IICRC certified. Call (855) 204-1124 now."
+primary_keyword: "water damage restoration san diego"
+secondary_keywords: ["best restoration company in san diego", "restoration company san diego", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "42ffe3c112fff2c9"
