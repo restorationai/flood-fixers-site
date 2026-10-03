@@ -17,6 +17,7 @@ faq: [{"question": "How long before mold grows after water damage?", "answer": "
 published_at: "2026-07-16"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Untreated water damage gets significantly worse with every passing day. Mold colonies can establish within 24 to 48 hours. By the end of the first week, drywall and insulation begin to deteriorate. After two to four weeks, structural framing, subfloors, and electrical systems can be compromised. Most homeowners insurance policies also reduce or deny claims when damage is left unmitigated, so delay doesn't just cost health and structure, it costs coverage.
 

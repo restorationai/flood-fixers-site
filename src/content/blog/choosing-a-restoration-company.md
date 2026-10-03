@@ -16,6 +16,7 @@ faq: [{"question": "How do I verify a restoration contractor's license in Califo
 published_at: "2026-06-29"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 The single most important thing you can do after a flood, fire, or mold discovery is hire the right restoration company, not just the first one who answers the phone at 2 a.m. In San Diego's competitive restoration market, dozens of contractors will show up fast, but fast doesn't mean qualified. This post walks you through exactly what to look for, what to ask, and what red flags to avoid so you don't end up paying twice for the same job.
 

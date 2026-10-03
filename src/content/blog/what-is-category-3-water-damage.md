@@ -17,6 +17,7 @@ faq: [{"question": "What makes water Category 3 versus Category 1 or 2?", "answe
 published_at: "2026-07-06"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Category 3 water damage, also called black water, is the most hazardous classification under the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500). It contains sewage, bacteria, or other contaminants that make drying alone unsafe. Porous materials like drywall, insulation, and carpet must be removed and discarded. Restoration costs are higher than Category 1 or 2 losses, and the work requires full PPE, containment, and antimicrobial treatment throughout.
 

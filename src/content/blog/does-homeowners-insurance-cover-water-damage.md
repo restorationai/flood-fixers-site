@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover a water heater that leaked a
 published_at: "2026-06-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 The short answer: it depends on *how* the water got in. Homeowners insurance typically covers sudden, accidental water damage, a pipe that bursts overnight, a washing machine hose that lets go, a dishwasher that overflows. It almost never covers flooding from outside your home, and it won't cover damage that built up slowly over time because of a leak you could have caught. Knowing which category your damage falls into before you call your adjuster can save you hours of frustration and thousands of dollars in denied claims.
 

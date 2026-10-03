@@ -17,6 +17,7 @@ faq: [{"question": "Is flood damage the same as water damage for insurance purpo
 published_at: "2026-08-27"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Flood damage comes from external rising water, storm surge, overflowing rivers, heavy rain overwhelming drainage. Water damage comes from an internal source, a burst pipe, a leaking appliance, a failed water heater. The distinction matters because homeowners insurance covers most internal water damage but almost never covers flooding. Remediation also differs: floodwater is typically Category 3 (contaminated), which requires more aggressive cleanup than a clean-water pipe leak.
 

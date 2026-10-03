@@ -17,6 +17,7 @@ faq: [{"question": "Does commercial property insurance cover a burst pipe in San
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "burst-pipe-repair"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Commercial property insurance usually covers water damage that's sudden and accidental, like a burst pipe or failed water heater, but it excludes gradual leaks, deferred maintenance, and flood water unless you've added a flood endorsement. Business interruption coverage pays lost income while you're closed, but it's a separate line item you have to purchase. Check your policy's water damage exclusions and deductible structure before you assume a loss is covered.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost per square foot?
 published_at: "2026-07-20"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Water damage restoration typically costs between $1,500 and $15,000, depending on how much water entered, what category of water it is, how many square feet are affected, and what materials need to be replaced. Category 1 (clean water) jobs on the lower end run $1,500 to $4,000. Category 3 (sewage or floodwater) losses with structural damage can exceed $15,000. Most homeowners insurance covers sudden, accidental losses, but the specifics matter.
 

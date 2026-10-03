@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-06-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 Most water damage restoration takes **3 to 5 days** for straightforward cases, a burst pipe caught quickly, a washing machine overflow on a tile floor. Add drywall, insulation, or subfloor damage and you're looking at **1 to 2 weeks**. If mold has already started (it can colonize in as little as 24 to 48 hours after saturation), or if structural framing is involved, the full process can stretch to **3 to 4 weeks** or longer. The single biggest factor isn't the size of the flood, it's how fast the water was extracted and drying equipment was deployed.
 

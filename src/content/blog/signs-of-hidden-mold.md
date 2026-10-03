@@ -15,6 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"
 faq: []
 published_at: "2026-09-19"
 services: ["mold-remediation"]
+author: "Gabriel Herrera"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug flood-fixers` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

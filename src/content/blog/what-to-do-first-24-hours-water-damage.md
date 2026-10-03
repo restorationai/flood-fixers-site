@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if water got into my walls even if I can't see
 published_at: "2026-06-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 If water is actively entering your home right now, stop reading and do three things first: shut off the main water supply valve, cut power to any flooded rooms at the breaker box, and move out of standing water. Once those are done, come back here, the next 24 hours will determine whether you're dealing with a manageable cleanup or a months-long reconstruction project.
 

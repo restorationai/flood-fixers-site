@@ -17,6 +17,7 @@ faq: [{"question": "How long does it take to dry out a flooded house?", "answer"
 published_at: "2026-08-03"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** To dry out a flooded house, you need to remove standing water first, then run commercial-grade air movers and dehumidifiers until moisture readings in walls, floors, and subfloor return to pre-loss levels. Consumer fans and open windows are not enough for structural drying. Mold can begin growing within 24 to 48 hours of a flood, so speed matters more than most homeowners realize.
 

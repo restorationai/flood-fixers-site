@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover flood damage from heavy rain
 published_at: "2026-07-23"
 services: ["flood-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** Standard homeowners insurance does not cover flood damage caused by rising external water, overflowing rivers, storm surge, heavy rain pooling against your foundation, or street flooding entering your home. That coverage requires a separate flood insurance policy, typically through FEMA's National Flood Insurance Program (NFIP) or a private carrier. If your home flooded and you only have a standard homeowners policy, you are likely uninsured for the structural damage, but there are still steps you can take right now.
 

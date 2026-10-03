@@ -17,6 +17,7 @@ faq: [{"question": "What is the first thing you should do when your house floods
 published_at: "2026-07-30"
 services: ["flood-damage-restoration", "basement-flooding-cleanup"]
 rendered: true
+author: "Gabriel Herrera"
 ---
 **TL;DR:** After a flood, your first moves are safety (cut power to flooded areas, don't enter if gas is leaking), then documentation (photos and video before touching anything), then stopping the water source if it's still flowing. Mold can begin growing within 24 to 48 hours, so the clock starts the moment the water stops rising. If standing water covers more than a small area or came from outside your home, call a flood damage professional the same day.
 
