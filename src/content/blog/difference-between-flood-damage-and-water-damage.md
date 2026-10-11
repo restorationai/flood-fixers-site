@@ -43,7 +43,7 @@ A few things that people assume are "floods" but are not, under insurance defini
 
 In Southern California, flash flooding is the most common flood scenario. A heavy rain event, especially after a dry season when the ground can't absorb water quickly, can push water into homes that have never flooded before. Hillside properties and homes near arroyos in communities like Escondido and El Cajon are particularly exposed during atmospheric river events.
 
-Flood damage almost always involves Category 3 water, also called black water, under the [IICRC S500 Standard](https://www.iicrc.org/page/IICRCS500). Category 3 water is grossly contaminated, it may carry sewage, agricultural runoff, chemicals, or biological material. That contamination level drives the remediation protocol: more PPE, more aggressive removal of porous materials, antimicrobial treatment, and stricter documentation.
+Flood damage almost always involves Category 3 water, also called black water, under the [IICRC S500 Standard](https://iicrc.org/s500/). Category 3 water is grossly contaminated, it may carry sewage, agricultural runoff, chemicals, or biological material. That contamination level drives the remediation protocol: more PPE, more aggressive removal of porous materials, antimicrobial treatment, and stricter documentation.
 
 ![What Counts as Flood Damage: difference between flood damage and water damage](https://images.flood-fixers.com/blog/2026/08/difference-between-flood-damage-and-water-damage/section.webp)
 

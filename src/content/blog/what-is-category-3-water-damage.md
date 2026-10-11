@@ -19,7 +19,7 @@ services: ["water-damage-restoration"]
 rendered: true
 author: "Gabriel Herrera"
 ---
-**TL;DR:** Category 3 water damage, also called black water, is the most hazardous classification under the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500). It contains sewage, bacteria, or other contaminants that make drying alone unsafe. Porous materials like drywall, insulation, and carpet must be removed and discarded. Restoration costs are higher than Category 1 or 2 losses, and the work requires full PPE, containment, and antimicrobial treatment throughout.
+**TL;DR:** Category 3 water damage, also called black water, is the most hazardous classification under the [IICRC S500 standard](https://iicrc.org/s500/). It contains sewage, bacteria, or other contaminants that make drying alone unsafe. Porous materials like drywall, insulation, and carpet must be removed and discarded. Restoration costs are higher than Category 1 or 2 losses, and the work requires full PPE, containment, and antimicrobial treatment throughout.
 
 If your basement just backed up with sewage, or floodwater from outside came through your foundation, you're not dealing with a simple drying job. The water in your home right now is classified as Category 3, and that classification changes every decision that follows, what gets saved, what gets torn out, how long the job takes, and what your insurance adjuster will expect to see in the restoration scope.
 

@@ -41,14 +41,14 @@ If the flooding is from an external source like a storm or groundwater intrusion
 
 ## Water Stopped? Call a Restoration Company Next
 
-Once the source is off, your second call is to an [IICRC-certified](https://www.iicrc.org/page/IICRCS500) water damage restoration company. This is the call that actually limits your loss.
+Once the source is off, your second call is to an [IICRC-certified](https://www.iicrc.org/) water damage restoration company. This is the call that actually limits your loss.
 
 Here is why timing matters: mold can begin developing within 24 to 48 hours on wet building materials. Drywall, insulation, and wood framing absorb water fast. Every hour the water sits, the drying job gets harder and more expensive. A restoration crew brings truck-mounted extractors, LGR dehumidifiers, and high-velocity air movers to pull moisture out of the structure, not just off the floor.
 
 What a restoration company does that a shop vac cannot:
 - Extracts standing water with commercial-grade equipment (hundreds of gallons per hour)
 - Reads moisture levels inside walls and under flooring with calibrated meters, not just surface feel
-- Sets drying targets based on the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for water damage restoration
+- Sets drying targets based on the [IICRC S500 standard](https://iicrc.org/s500/) for water damage restoration
 - Documents moisture readings with timestamps, which your insurance adjuster will need
 - Identifies whether materials can be dried in place or need to be removed
 

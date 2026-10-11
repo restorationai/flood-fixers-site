@@ -62,9 +62,9 @@ If you've never been through a commercial water loss before, the scope of a prof
 
 **Days 2–5: Monitored drying.** Moisture readings are logged every 24 hours. Equipment is adjusted as materials dry. In San Diego's mild climate, well-executed commercial drying often hits target moisture levels in 3–5 days for standard construction, longer for concrete slabs, dense insulation, or multi-layer flooring assemblies.
 
-**Post-drying: Scope and rebuild.** Once materials reach acceptable moisture content (verified by readings, not by feel), the team documents what needs to be replaced versus what can be saved. A reputable [commercial restoration](https://floodfixers.com/commercial-restoration) contractor will provide a written scope that your adjuster can review before demolition begins.
+**Post-drying: Scope and rebuild.** Once materials reach acceptable moisture content (verified by readings, not by feel), the team documents what needs to be replaced versus what can be saved. A reputable commercial restoration contractor will provide a written scope that your adjuster can review before demolition begins.
 
-For large losses, a flooded office floor, a warehouse with several inches of standing water, a multi-tenant building with damage across units, the [water damage restoration](https://floodfixers.com/water-damage-restoration) process may run in parallel with reconstruction on already-dried sections, compressing the overall timeline.
+For large losses, a flooded office floor, a warehouse with several inches of standing water, a multi-tenant building with damage across units, the water damage restoration process may run in parallel with reconstruction on already-dried sections, compressing the overall timeline.
 
 ## Planning for the Next One: What Businesses Should Have in Place Before a Loss
 

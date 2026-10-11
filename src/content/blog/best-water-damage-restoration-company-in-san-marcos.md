@@ -26,7 +26,7 @@ If you're searching for the best water damage restoration company in San Marcos,
 
 ## How This List Was Ranked
 
-The ranking below uses five factors that actually predict how a water loss gets handled: whether the crew is IICRC certified, whether dispatch is genuinely 24/7, whether mitigation and reconstruction happen under one roof instead of two separate contractors handing off the file, whether the company bills insurance directly, and whether its reviews are current and verifiable. Drying work that follows the [IICRC S500 water damage standard](https://www.iicrc.org/page/IICRCS500) is the baseline for proper moisture mapping and equipment placement, so certification status isn't a nice-to-have, it's the floor.
+The ranking below uses five factors that actually predict how a water loss gets handled: whether the crew is IICRC certified, whether dispatch is genuinely 24/7, whether mitigation and reconstruction happen under one roof instead of two separate contractors handing off the file, whether the company bills insurance directly, and whether its reviews are current and verifiable. Drying work that follows the [IICRC S500 water damage standard](https://iicrc.org/s500/) is the baseline for proper moisture mapping and equipment placement, so certification status isn't a nice-to-have, it's the floor.
 
 ## 1. San Marcos's IICRC-Certified, Mitigation-Through-Rebuild Team
 

@@ -52,7 +52,7 @@ Call your insurer once mitigation is already moving, not before. Most policies r
 
 The water's category determines who's allowed to touch it and what PPE the job requires. Clean water (a supply line break) is the lowest risk. Gray water (a washing machine overflow or dishwasher backup) carries some contaminants. Black water (sewage backup, or any flooding that's sat for days) is the category that changes everything, including which parts of the job a homeowner should never attempt themselves.
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines these categories, and it's worth asking whoever responds which one they're calling it, since that determines whether drywall gets dried in place or has to come out. We've written a longer breakdown of [what Category 3 water damage actually means](/blog/what-is-category-3-water-damage/) for the floor behind it, if your situation involves standing water that's been sitting more than 24 to 48 hours.
+The [IICRC S500 standard](https://iicrc.org/s500/) defines these categories, and it's worth asking whoever responds which one they're calling it, since that determines whether drywall gets dried in place or has to come out. We've written a longer breakdown of [what Category 3 water damage actually means](/blog/what-is-category-3-water-damage/) for the floor behind it, if your situation involves standing water that's been sitting more than 24 to 48 hours.
 
 ## When does the rebuild need a City of San Marcos permit?
 

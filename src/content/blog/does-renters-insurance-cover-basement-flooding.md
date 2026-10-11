@@ -31,7 +31,7 @@ The answer depends almost entirely on where the water came from. This post break
 
 Renters insurance covers your personal property when the flooding comes from a sudden, accidental internal source. A pipe that bursts in the wall, an overflowing bathtub, a dishwasher that fails, a water heater that ruptures, these are covered causes under a standard HO-4 renters policy. If water from one of those sources damages your furniture, electronics, clothing, or other belongings, your personal property coverage pays to repair or replace them up to your policy limit.
 
-What renters insurance does not cover is surface water flooding, meaning rain that overwhelms the drainage system, groundwater that seeps through basement walls, or water that backs up through a floor drain during a storm. The [Insurance Information Institute](https://www.iii.org/article/does-my-homeowners-insurance-cover-water-damage) is clear on this: standard homeowners and renters policies exclude flood damage as defined under the NFIP. That exclusion applies whether you rent a basement unit in El Cajon or a ground-floor apartment in Chula Vista.
+What renters insurance does not cover is surface water flooding, meaning rain that overwhelms the drainage system, groundwater that seeps through basement walls, or water that backs up through a floor drain during a storm. The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) is clear on this: standard homeowners and renters policies exclude flood damage as defined under the NFIP. That exclusion applies whether you rent a basement unit in El Cajon or a ground-floor apartment in Chula Vista.
 
 ## What Is the Difference Between Tenant Coverage and Landlord Coverage?
 

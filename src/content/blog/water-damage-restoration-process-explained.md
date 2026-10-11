@@ -19,7 +19,7 @@ services: ["water-damage-restoration", "reconstruction"]
 rendered: true
 author: "Gabriel Herrera"
 ---
-**TL;DR:** Professional water damage restoration follows six stages: a damage inspection and water classification, standing water extraction, structural drying with air movers, dehumidification to pull moisture from building materials, moisture verification testing to confirm dryness, and reconstruction of anything that couldn't be saved. The entire process typically takes 3 to 7 days for drying alone, with reconstruction adding time depending on scope. Every stage is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500).
+**TL;DR:** Professional water damage restoration follows six stages: a damage inspection and water classification, standing water extraction, structural drying with air movers, dehumidification to pull moisture from building materials, moisture verification testing to confirm dryness, and reconstruction of anything that couldn't be saved. The entire process typically takes 3 to 7 days for drying alone, with reconstruction adding time depending on scope. Every stage is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/).
 
 You're standing in a wet room, the floor is soaked, and someone just told you a restoration crew is on the way. You want to know what they're actually going to do, and whether your house will ever look normal again. The short answer is yes, in most cases. But the process is more methodical than most homeowners expect. It's not just shop vacs and fans. Here's every stage, in order, with the specifics that actually matter.
 

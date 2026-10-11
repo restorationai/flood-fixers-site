@@ -29,7 +29,7 @@ Virtually all flood water is contaminated, and most of it qualifies as Category 
 
 When storm water overflows a street, it picks up everything on that surface: motor oil, fertilizer, animal waste, and whatever is flowing out of overwhelmed municipal sewer systems. When a river or creek floods, it carries sediment, debris, and contamination from miles upstream. Even water that looks relatively clear can carry invisible biological hazards.
 
-The [CDC advises](https://www.cdc.gov/disasters/floods/index.html) avoiding contact with flood water whenever possible, and washing thoroughly with soap and clean water if contact does occur.
+The [CDC advises](https://www.cdc.gov/natural-disasters/safety/index.html) avoiding contact with flood water whenever possible, and washing thoroughly with soap and clean water if contact does occur.
 
 ## What Health Risks Does Flood Water Pose?
 

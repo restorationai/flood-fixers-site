@@ -27,7 +27,7 @@ You came home to water on the floor, or you woke up to it. Maybe it's a few inch
 
 Do not walk into a flooded room until you know the power is off. Water and live electricity together can kill you. If your electrical panel is in the basement and the basement is flooded, call your utility company to cut power at the meter before you go in. If you smell gas, leave the house immediately, leave the door open behind you, and call your gas company from outside.
 
-Floodwater from outside your home, a sewage backup, or an overflowing toilet is almost always Category 3 water, also called black water. The [CDC](https://www.cdc.gov/disasters/floods/index.html) is direct about this: floodwater can carry sewage, chemicals, and pathogens. Don't wade through it without rubber boots and waterproof gloves at minimum. Keep children and pets out entirely.
+Floodwater from outside your home, a sewage backup, or an overflowing toilet is almost always Category 3 water, also called black water. The [CDC](https://www.cdc.gov/natural-disasters/safety/index.html) is direct about this: floodwater can carry sewage, chemicals, and pathogens. Don't wade through it without rubber boots and waterproof gloves at minimum. Keep children and pets out entirely.
 
 Clean water from a burst supply line or appliance is safer to be around, but it degrades fast once it sits. After 24 hours, even clean-source water can become contaminated from the surfaces it's touched.
 

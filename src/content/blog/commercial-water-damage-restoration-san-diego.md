@@ -25,7 +25,7 @@ If you manage a building in Kearny Mesa or Mission Valley and just got the call 
 
 ## What Does Commercial Water Damage Restoration Actually Involve?
 
-Commercial water damage restoration means extracting standing water, drying the structure to a verified dry standard, and documenting the loss in a format a commercial carrier will actually approve, then handing off to rebuild if materials were removed. It follows the same IICRC [S500 standard](https://www.iicrc.org/page/IICRCS500) as residential work, but at a different scale and with a different audience for the paperwork.
+Commercial water damage restoration means extracting standing water, drying the structure to a verified dry standard, and documenting the loss in a format a commercial carrier will actually approve, then handing off to rebuild if materials were removed. It follows the same IICRC [S500 standard](https://iicrc.org/s500/) as residential work, but at a different scale and with a different audience for the paperwork.
 
 The scope typically breaks into three phases. First, emergency mitigation: shutting off the source, extracting water with truck-mounted or portable extractors, and setting containment so drying doesn't shut down the whole floor. Second, structural drying with commercial-grade LGR dehumidifiers and air movers, monitored daily with moisture meters and logged for the claim file. Third, if drywall, flooring, or ceiling tile was removed, reconstruction to bring the space back to pre-loss condition, including code-required upgrades where the building department requires them.
 
