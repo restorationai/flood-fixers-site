@@ -38,7 +38,7 @@ Demolition and rough-in happen in a sequenced order that protects your livable s
 
 Kitchen and bathroom remodels consistently deliver the highest return in San Diego County's resale market, and in San Marcos specifically, buyers expect updated finishes because so much competing inventory is newer construction. Original 1990s oak cabinets, laminate countertops, and single-handle chrome fixtures are the first things buyers discount. A full kitchen remodel, new cabinetry layout, quartz or quartzite countertops, updated plumbing rough-in, and recessed LED lighting, typically runs 3–5 weeks from permit approval to final walkthrough on a standard 200–250 square foot kitchen.
 
-Bathroom remodels in San Marcos frequently involve rerouting supply lines because original builder layouts used the most economical pipe runs, not the most logical ones for a modern shower configuration. We handle the plumbing, tile work, vanity installation, and exhaust fan upgrades as a single coordinated scope rather than handing off to separate subcontractors you'd have to schedule yourself.
+Bathroom remodels in San Marcos frequently involve rerouting supply lines because original builder layouts used the most economical pipe runs, not the most logical ones for a modern shower configuration. We coordinate the tile work, vanity installation, and exhaust fan upgrades as a single coordinated scope rather than handing off to separate subcontractors you'd have to schedule yourself.
 
 ## Local Note: The Cal State San Marcos Corridor and Permit Timing
 

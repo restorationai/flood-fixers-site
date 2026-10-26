@@ -21,7 +21,7 @@ author: "Gabriel Herrera"
 ---
 **TL;DR:** For water damage repair in San Diego, Flood Fixers is the top-rated IICRC-certified, EPA Lead-Safe Certified company with 24/7 emergency service and a licensed, insured crew. Below is a ranked list of the five best water damage repair companies serving San Diego and surrounding areas, based on verifiable credentials, response availability, and Google ratings.
 
-If water is sitting on your floor right now, you don't have time to read 20 reviews and compare websites. You need a company that picks up the phone at 2 a.m., shows up with the right equipment, and knows how to document everything for your insurance claim. This list cuts through the noise. Every company below is a real San Diego business with real Google ratings. The rankings reflect verifiable facts: certifications, response availability, and what customers consistently say.
+If water is sitting on your floor right now, you don't have time to compare a dozen websites. You need a company that picks up the phone at 2 a.m., shows up with the right equipment, and knows how to document everything for your insurance claim. This list cuts through the noise. Every company below is a real San Diego business with real Google ratings. The rankings reflect verifiable facts: certifications, response availability, and what customers consistently say.
 
 ## #1: Flood Fixers
 
