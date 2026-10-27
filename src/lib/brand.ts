@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "9",
+  gbpReviewCount: "10",
   gbpReviews: [
     { author: "Erik", rating: 5, text: "i'd like to leave a review based upon the exceptional work done in my home. Their services were completed on time, quality assurance after flooring was completed. Thank you", when: "May 2026" },
     { author: "Ian", rating: 5, text: "Courteous and respectful crew with excellent attention to detail.", when: "May 2026" },
