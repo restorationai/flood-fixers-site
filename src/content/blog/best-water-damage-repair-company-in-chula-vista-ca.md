@@ -32,7 +32,7 @@ Whether a slab leak is spreading under the kitchen floor of an Eastlake tract ho
 
 Flood Fixers holds a 5.0 Google rating, carries IICRC certification, and is EPA Lead-Safe Certified for work in older homes built before 1978, which matters for the mid-century housing stock near Third Avenue Village. The company is licensed and insured and runs 24/7 emergency service, so a call placed at 2 a.m. after a burst pipe gets answered the same night, not routed to voicemail.
 
-Flood Fixers' crews handle the full water-damage lifecycle: extraction, structural drying to the IICRC S500 standard, and the burst-pipe and basement-flooding cleanup work that is common in both the newer construction around Otay Ranch and the older slab-on-grade homes closer to the bay. When reconstruction is needed after drywall or flooring comes out, the same company finishes the rebuild instead of handing the job to a third party.
+Flood Fixers' [water damage restoration crews in Chula Vista](/service-areas/chula-vista-ca/water-damage-restoration/) handle the full water-damage lifecycle: extraction, structural drying to the IICRC S500 standard, and the burst-pipe and basement-flooding cleanup work that is common in both the newer construction around Otay Ranch and the older slab-on-grade homes closer to the bay. When reconstruction is needed after drywall or flooring comes out, the same company finishes the rebuild instead of handing the job to a third party.
 
 For a Chula Vista homeowner comparing options, the combination of a perfect current rating, documented certifications, and round-the-clock dispatch is the strongest verifiable case on this list.
 

@@ -25,7 +25,7 @@ If you manage a building in Kearny Mesa or Mission Valley and just got the call 
 
 ## What Does Commercial Water Damage Restoration Actually Involve?
 
-Commercial water damage restoration means extracting standing water, drying the structure to a verified dry standard, and documenting the loss in a format a commercial carrier will actually approve, then handing off to rebuild if materials were removed. It follows the same IICRC [S500 standard](https://iicrc.org/s500/) as residential work, but at a different scale and with a different audience for the paperwork.
+[Commercial water damage restoration](/services/water-damage-restoration/) means extracting standing water, drying the structure to a verified dry standard, and documenting the loss in a format a commercial carrier will actually approve, then handing off to rebuild if materials were removed. It follows the same IICRC [S500 standard](https://iicrc.org/s500/) as residential work, but at a different scale and with a different audience for the paperwork.
 
 The scope typically breaks into three phases. First, emergency mitigation: shutting off the source, extracting water with truck-mounted or portable extractors, and setting containment so drying doesn't shut down the whole floor. Second, structural drying with commercial-grade LGR dehumidifiers and air movers, monitored daily with moisture meters and logged for the claim file. Third, if drywall, flooring, or ceiling tile was removed, reconstruction to bring the space back to pre-loss condition, including code-required upgrades where the building department requires them.
 
@@ -35,7 +35,7 @@ A commercial job also has a stakeholder list a residential job doesn't: the prop
 
 A commercial loss usually involves shared systems, after-hours coordination, and a much higher documentation bar than a single-family home claim. Shutting off water in a multi-tenant building often means isolating one branch line, not the whole property, which requires knowing the building's plumbing layout, not just finding the nearest valve.
 
-After-hours response matters more here too. A restaurant that floods at 11 p.m. needs mitigation started before the morning prep crew arrives, not after. Flood Fixers operates on 24/7 emergency service for exactly this reason: water damage in a commercial space compounds every hour it sits, and a delayed start can turn a one-day dry-out into a week of lost revenue for the tenant.
+After-hours response matters more here too. A restaurant that floods at 11 p.m. needs mitigation started before the morning prep crew arrives, not after. Flood Fixers runs [commercial flood restoration](/services/flood-damage-restoration/) on 24/7 emergency service for exactly this reason: water damage in a commercial space compounds every hour it sits, and a delayed start can turn a one-day dry-out into a week of lost revenue for the tenant.
 
 Documentation is the other big difference. Commercial carriers expect a formal scope of work, photo and moisture logs tied to specific dates and readings, and often a Xactimate-style estimate broken out by trade. A homeowner's adjuster might accept a phone call and a few photos. A commercial adjuster wants a paper trail that holds up if the claim gets disputed or if a tenant's business-interruption coverage is also in play.
 

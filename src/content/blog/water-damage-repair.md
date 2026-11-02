@@ -71,7 +71,7 @@ For a deeper look at what to ask before you hire, see [How To Choose a Restorati
 
 ## What Water Damage Repair Actually Involves
 
-Water damage repair is not just drying out the wet stuff. A properly scoped job follows a defined sequence: emergency extraction, structural drying, moisture verification, and then repair or reconstruction of damaged materials. Skipping or rushing any phase leads to hidden moisture pockets that produce mold weeks later.
+[Water damage repair in San Diego](/services/water-damage-restoration/) is not just drying out the wet stuff. A properly scoped job follows a defined sequence: emergency extraction, structural drying, moisture verification, and then repair or reconstruction of damaged materials. Skipping or rushing any phase leads to hidden moisture pockets that produce mold weeks later.
 
 Extraction removes standing water using truck-mounted or portable extractors. Structural drying uses high-velocity air movers and LGR (low-grain refrigerant) dehumidifiers to pull moisture out of walls, subfloors, and framing. Drying is validated with moisture meters and thermal imaging, not by feel or appearance. Only after readings return to pre-loss baselines does the repair phase begin: replacing drywall, flooring, insulation, and any structural elements the water compromised.
 
