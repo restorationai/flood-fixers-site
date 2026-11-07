@@ -1,0 +1,158 @@
+{
+ "/service-areas/bonsall-ca/water-cleanup": {
+  "planned": "/service-areas/bonsall-ca/emergency-water-removal/",
+  "now": "/service-areas/bonsall-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/camp-pendleton-mainside-ca/water-cleanup": {
+  "planned": "/service-areas/camp-pendleton-mainside-ca/emergency-water-removal/",
+  "now": "/service-areas/camp-pendleton-mainside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/camp-pendleton-south-ca/water-cleanup": {
+  "planned": "/service-areas/camp-pendleton-south-ca/emergency-water-removal/",
+  "now": "/service-areas/camp-pendleton-south-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/water-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/emergency-water-removal/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/water-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/emergency-water-removal/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/del-mar-ca/water-cleanup": {
+  "planned": "/service-areas/del-mar-ca/emergency-water-removal/",
+  "now": "/service-areas/del-mar-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/water-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/emergency-water-removal/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/water-cleanup": {
+  "planned": "/service-areas/encinitas-ca/emergency-water-removal/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/water-cleanup": {
+  "planned": "/service-areas/escondido-ca/emergency-water-removal/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fairbanks-ranch-ca/water-cleanup": {
+  "planned": "/service-areas/fairbanks-ranch-ca/emergency-water-removal/",
+  "now": "/service-areas/fairbanks-ranch-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fallbrook-ca/water-cleanup": {
+  "planned": "/service-areas/fallbrook-ca/emergency-water-removal/",
+  "now": "/service-areas/fallbrook-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/harmony-grove-ca/water-cleanup": {
+  "planned": "/service-areas/harmony-grove-ca/emergency-water-removal/",
+  "now": "/service-areas/harmony-grove-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hidden-meadows-ca/water-cleanup": {
+  "planned": "/service-areas/hidden-meadows-ca/emergency-water-removal/",
+  "now": "/service-areas/hidden-meadows-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/la-mesa-ca/water-cleanup": {
+  "planned": "/service-areas/la-mesa-ca/emergency-water-removal/",
+  "now": "/service-areas/la-mesa-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/national-city-ca/water-cleanup": {
+  "planned": "/service-areas/national-city-ca/emergency-water-removal/",
+  "now": "/service-areas/national-city-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/water-cleanup": {
+  "planned": "/service-areas/oceanside-ca/emergency-water-removal/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pala-ca/water-cleanup": {
+  "planned": "/service-areas/pala-ca/emergency-water-removal/",
+  "now": "/service-areas/pala-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/poway-ca/water-cleanup": {
+  "planned": "/service-areas/poway-ca/emergency-water-removal/",
+  "now": "/service-areas/poway-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rancho-santa-fe-ca/water-cleanup": {
+  "planned": "/service-areas/rancho-santa-fe-ca/emergency-water-removal/",
+  "now": "/service-areas/rancho-santa-fe-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/water-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/emergency-water-removal/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santee-ca/water-cleanup": {
+  "planned": "/service-areas/santee-ca/emergency-water-removal/",
+  "now": "/service-areas/santee-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/solana-beach-ca/water-cleanup": {
+  "planned": "/service-areas/solana-beach-ca/emergency-water-removal/",
+  "now": "/service-areas/solana-beach-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/spring-valley-ca/water-cleanup": {
+  "planned": "/service-areas/spring-valley-ca/emergency-water-removal/",
+  "now": "/service-areas/spring-valley-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/water-cleanup": {
+  "planned": "/service-areas/temecula-ca/emergency-water-removal/",
+  "now": "/service-areas/temecula-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/valley-center-ca/water-cleanup": {
+  "planned": "/service-areas/valley-center-ca/emergency-water-removal/",
+  "now": "/service-areas/valley-center-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vista-ca/water-cleanup": {
+  "planned": "/service-areas/vista-ca/emergency-water-removal/",
+  "now": "/service-areas/vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
