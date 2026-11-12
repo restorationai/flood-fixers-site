@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "12",
+  gbpReviewCount: "13",
   gbpReviews: [
     { author: "Zack", rating: 5, text: "I used to worry about asking something that seemed basic like whether a small drip under the sink could spread mold before I'd ever noticed, but now I feel confident I'd catch it early and know who to call.", when: "November 2026" },
     { author: "Faridah", rating: 5, text: "A flooring job came up while we were talking where water had been sitting under the planks for weeks before anyone caught it. By the time the crew got there, the edges along one wall were already lifting and the subfloor felt soft to touch. They mentioned that once boards start curling at the…", when: "November 2026" },
