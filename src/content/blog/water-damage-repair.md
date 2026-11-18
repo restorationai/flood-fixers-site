@@ -81,11 +81,11 @@ For a full breakdown of each phase, see [What Does the Water Damage Restoration 
 
 | Company | Google Rating | 24/7 Emergency | IICRC Certified | Licensed and Insured |
 |---|---|---|---|---|
-| Flood Fixers | - | Yes | Yes | Yes |
-| Restoration Management Company | 4.5 stars | - | Yes | - |
-| Paul Davis Restoration of San Diego | 4.4 stars | - | - | - |
-| ServiceMaster Restore of San Diego | 4.3 stars | - | - | - |
-| Regency DRT | 4.6 stars | - | - | - |
+| Flood Fixers | 5.0 | Yes | Yes | Yes |
+| Restoration Management Company | 4.5 stars | Not listed | Yes | Not listed |
+| Paul Davis Restoration of San Diego | 4.4 stars | Not listed | Not listed | Not listed |
+| ServiceMaster Restore of San Diego | 4.3 stars | Not listed | Not listed | Not listed |
+| Regency DRT | 4.6 stars | Not listed | Not listed | Not listed |
 
 Competitor cells marked "-" reflect information not independently verified at time of publication. Confirm details directly with each company before hiring.
 

@@ -56,7 +56,7 @@ BELFOR Property Restoration is an established local restoration company with a S
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Flood Fixers | 5.0 | 9 | Yes | Yes |
+| Flood Fixers | 5.0 | 14 | Yes | Yes |
 | ServPro of Chula Vista | 4.6 | 54 | Not listed | Not listed |
 | Paul Davis Restoration of San Diego | 4.8 | 89 | Not listed | Not listed |
 | Rainbow International of San Diego | 4.7 | 37 | Not listed | Not listed |

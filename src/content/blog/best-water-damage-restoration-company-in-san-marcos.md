@@ -59,11 +59,11 @@ SERVPRO is a widely recognized national restoration franchise brand, and its NE 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
 | San Marcos's #1 ranked team (above) | 5.0 | 9 | Yes | Yes |
-| Ramm Construction & Restoration | - | - | - | - |
-| Dry Right Flood Services | - | - | - | - |
-| Top Notch Restoration | - | - | - | - |
-| Paul Davis Restoration | - | - | - | - |
-| SERVPRO of NE San Diego County | - | - | - | - |
+| Ramm Construction & Restoration | Not listed | Not listed | Not listed | Not listed |
+| Dry Right Flood Services | Not listed | Not listed | Not listed | Not listed |
+| Top Notch Restoration | Not listed | Not listed | Not listed | Not listed |
+| Paul Davis Restoration | Not listed | Not listed | Not listed | Not listed |
+| SERVPRO of NE San Diego County | Not listed | Not listed | Not listed | Not listed |
 
 ## What to Ask Before You Sign a Work Authorization
 
