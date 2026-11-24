@@ -92,7 +92,7 @@ Water Damage Restoration San Diego holds a 4.8-star Google rating across 45 revi
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Flood Fixers | 5.0 | 14 | Yes | Yes |
+| Flood Fixers | 5.0 | 17 | Yes | Yes |
 | Mighty Dry San Diego | 4.9 | 586 | Not listed | Not listed |
 | Risk Free Serv Water Damage Repair San Diego | 5.0 | 125 | Not listed | Not listed |
 | SERVPRO of San Diego City SW | 4.8 | 161 | Not listed | Not listed |

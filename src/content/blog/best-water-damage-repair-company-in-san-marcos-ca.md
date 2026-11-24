@@ -52,7 +52,7 @@ BELFOR Property Restoration's San Diego office is categorized as a building rest
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Flood Fixers | 5.0 | 14 | Yes | Yes |
+| Flood Fixers | 5.0 | 17 | Yes | Yes |
 | ServiceMaster Restoration by EMT | 4.8 | Not listed | Not listed | Not listed |
 | Paul Davis Restoration of North San Diego County | 4.7 | Not listed | Not listed | Not listed |
 | ServPro of San Marcos / Vista | 4.5 | Not listed | Not listed | Not listed |

@@ -56,7 +56,7 @@ SERVPRO of NE San Diego County shares the 2870 S Santa Fe Ave address in San Mar
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Flood Fixers | 5.0 | 14 | Yes | Yes |
+| Flood Fixers | 5.0 | 17 | Yes | Yes |
 | Ramm Water Damage Restoration and Mold Remediation | 5.0 | 464 | Not listed | Not listed |
 | SERVPRO of North Vista/San Marcos | 5.0 | 233 | Not listed | Not listed |
 | Top Notch | 5.0 | 150 | Not listed | Not listed |
