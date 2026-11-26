@@ -74,6 +74,8 @@ export const brand = {
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/61589997593516", "https://www.instagram.com/flood.fixers/", "https://maps.google.com/maps?cid=831059838874778616", "https://www.yelp.com/biz/flood-fixers-san-diego", "https://www.bing.com/maps?ss=ypid.YN98B76BD2E3E0D8A0", "https://www.houzz.com/professionals/environmental-services-and-restoration/flood-fixers-pfvwus-pf~190107846"] as string[],
+  credentials: [{"name": "IICRC Certified", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "EPA Lead-Safe Certified", "kind": "certification", "authority": "U.S. EPA", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "IICRC Certified"}, {"text": "EPA Lead-Safe Certified"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
