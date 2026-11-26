@@ -98,7 +98,7 @@ Water Damage Restoration San Diego holds a 4.8-star Google rating across 45 revi
 | SERVPRO of San Diego City SW | 4.8 | 161 | Not listed | Not listed |
 | Water Damage Restoration San Diego | 4.8 | 45 | Not listed | Not listed |
 
-*24/7 and certification data for competitors is not independently verified. ", " indicates unknown, not absent.*
+*24/7 and certification data for competitors is not independently verified. "Not listed" indicates unknown, not absent.*
 
 ---
 
